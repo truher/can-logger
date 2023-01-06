@@ -1,0 +1,6 @@
+[submodule "arduino/libraries/Time"]
+	path = arduino/libraries/Time
+	url = git@github.com:PaulStoffregen/Time.git
+[submodule "arduino/libraries/SdFat"]
+	path = arduino/libraries/SdFat
+	url = git@github.com:greiman/SdFat.git
